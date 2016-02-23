@@ -7675,15 +7675,15 @@
 -1
 -1
 #FALSE#
-416
+320
 480
-2
-"Day and Night in the Forest.lvl"
-"forest02.lvl"
+13
+"forest01.lvl"
+"The First Forest"
+6
 -1
 -1
--1
--1
+8
 0
 #FALSE#
 #FALSE#
@@ -7692,14 +7692,14 @@
 -1
 #FALSE#
 320
-480
-13
-"forest01.lvl"
-"The First Forest"
-4
+384
+32
+"underwater01.lvl"
+"Underwater Oil Well?"
 -1
 -1
-8
+-1
+-1
 0
 #FALSE#
 #FALSE#
@@ -7739,11 +7739,11 @@
 -1
 -1
 #FALSE#
-320
-384
-32
-"underwater01.lvl"
-"Underwater Oil Well?"
+416
+480
+2
+"forest02.lvl"
+"Day and Night in the Forest"
 -1
 -1
 -1
