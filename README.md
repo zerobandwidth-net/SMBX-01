@@ -6,6 +6,6 @@ Enjoy.
 
 ### Music Credits ###
 
-**Forest 04: The Canopy** features the song "Pleasant Creek" by Matthew Pablo.
+**Forest 04: The Canopy** features the song "Curious Critters" by Matthew Pablo.
 http://www.matthewpablo.com/
 http://opengameart.org/users/matthewpablo
