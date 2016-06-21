@@ -9,3 +9,6 @@ Enjoy.
 **Forest 04: The Canopy** features the song "Curious Critters" by Matthew Pablo.
 http://www.matthewpablo.com/
 http://opengameart.org/users/matthewpablo
+
+**Desert 01: Mirage of the Night** features the song "Mirage" by syncopika.
+http://opengameart.org/users/syncopika
