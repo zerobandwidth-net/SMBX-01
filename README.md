@@ -12,3 +12,10 @@ http://opengameart.org/users/matthewpablo
 
 **Desert 01: Mirage of the Night** features the song "Mirage" by syncopika.
 http://opengameart.org/users/syncopika
+
+**Water 03: Archaeological Site W01** features the song "Lively Meadow" by Matthew Pablo.
+http://www.matthewpablo.com/
+http://opengameart.org/users/matthewpablo
+
+**Water 03: Archaeological Site W01** also features the song "Night" by Trevor Lentz.
+http://opengameart.org/users/trevor-lentz
