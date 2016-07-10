@@ -6,16 +6,27 @@ Enjoy.
 
 ### Music Credits ###
 
-**Forest 04: The Canopy** features the song "Curious Critters" by Matthew Pablo.
+#### Forest 04: The Canopy ####
+
+"Curious Critters" by Matthew Pablo
 http://www.matthewpablo.com/
 http://opengameart.org/users/matthewpablo
 
-**Desert 01: Mirage of the Night** features the song "Mirage" by syncopika.
+#### Desert 01: Mirage of the Night ####
+
+"Mirage" by syncopika
 http://opengameart.org/users/syncopika
 
-**Water 03: Archaeological Site W01** features the song "Lively Meadow" by Matthew Pablo.
+#### Water 02: The HMS Faerie Ring ####
+
+"Sombrero" by Axton Crolley
+http://opengameart.org/users/axtoncrolley
+
+#### Water 03: Archaeological Site #W01 ####
+
+"Lively Meadow" by Matthew Pablo
 http://www.matthewpablo.com/
 http://opengameart.org/users/matthewpablo
 
-**Water 03: Archaeological Site W01** also features the song "Night" by Trevor Lentz.
+"Night" by Trevor Lentz
 http://opengameart.org/users/trevor-lentz
