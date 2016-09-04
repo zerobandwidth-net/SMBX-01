@@ -6,16 +6,27 @@ Enjoy.
 
 ### Music Credits ###
 
+#### Desert 01: Mirage of the Night ####
+
+"Mirage" by syncopika
+http://opengameart.org/users/syncopika
+
 #### Forest 04: The Canopy ####
 
 "Curious Critters" by Matthew Pablo
 http://www.matthewpablo.com/
 http://opengameart.org/users/matthewpablo
 
-#### Desert 01: Mirage of the Night ####
+#### Grass 02: The Floating Kingdom ####
 
-"Mirage" by syncopika
+"2-Part Invention in B minor" by Matthew Pablo
+http://www.matthewpablo.com/
+http://opengameart.org/users/matthewpablo
+
+"Swagger" by syncopika
 http://opengameart.org/users/syncopika
+
+"Clockwork (Judgment)" by Yasushi Asuda
 
 #### Water 02: The HMS Faerie Ring ####
 
