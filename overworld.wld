@@ -9959,9 +9959,9 @@
 -2784
 -1248
 280
--2784
--1280
-279
+-192
+448
+57
 -2752
 -1280
 285
@@ -10214,9 +10214,9 @@
 -160
 384
 57
--192
-448
-57
+-2784
+-1280
+279
 "next"
 128
 448
@@ -11034,17 +11034,17 @@
 -1
 -1
 #FALSE#
--2656
--1376
-4
-""
-""
--1
--1
--1
--1
+-2848
+-1248
+8
+"airport_to_clouds.lvl"
+"Ancient Airport (Floating Kingdom)"
 0
-#FALSE#
+0
+0
+-1
+14
+#TRUE#
 #FALSE#
 #FALSE#
 -1
@@ -11070,7 +11070,7 @@
 -1248
 24
 "clouds01-the_floating_kingdom.lvl"
-"The Floating Kingdom - Clockwork"
+"The Clock Tower"
 -1
 -1
 -1
@@ -11082,18 +11082,18 @@
 -1
 -1
 #FALSE#
--2848
--1248
-8
-"airport_to_clouds.lvl"
-"Ancient Airport (Floating Kingdom)"
-0
+-2656
+-1376
+4
+"clouds02-castle_of_comrades.lvl"
+"Castle of Comrades"
 0
 0
 -1
-14
+0
+0
 #TRUE#
-#FALSE#
+#TRUE#
 #FALSE#
 -1
 -1
